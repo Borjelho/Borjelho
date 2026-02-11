@@ -17,6 +17,6 @@ Desenvolvedor em formação com foco em backend. Experiência acadêmica com Jav
 
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-000?style=for-the-badge&logo=githubactions)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+
